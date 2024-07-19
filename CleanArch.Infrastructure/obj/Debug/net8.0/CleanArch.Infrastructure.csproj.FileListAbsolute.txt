@@ -1,0 +1,17 @@
+C:\Users\victo\source\repos\sistemaCQRS-mediator\CleanArch.Infrastructure\bin\Debug\net8.0\CleanArch.Infrastructure.deps.json
+C:\Users\victo\source\repos\sistemaCQRS-mediator\CleanArch.Infrastructure\bin\Debug\net8.0\CleanArch.Infrastructure.runtimeconfig.json
+C:\Users\victo\source\repos\sistemaCQRS-mediator\CleanArch.Infrastructure\bin\Debug\net8.0\CleanArch.Infrastructure.dll
+C:\Users\victo\source\repos\sistemaCQRS-mediator\CleanArch.Infrastructure\bin\Debug\net8.0\CleanArch.Infrastructure.pdb
+C:\Users\victo\source\repos\sistemaCQRS-mediator\CleanArch.Infrastructure\bin\Debug\net8.0\CleanArch.Domain.dll
+C:\Users\victo\source\repos\sistemaCQRS-mediator\CleanArch.Infrastructure\bin\Debug\net8.0\CleanArch.Domain.pdb
+C:\Users\victo\source\repos\sistemaCQRS-mediator\CleanArch.Infrastructure\obj\Debug\net8.0\CleanArch.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\victo\source\repos\sistemaCQRS-mediator\CleanArch.Infrastructure\obj\Debug\net8.0\CleanArch.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\source\repos\sistemaCQRS-mediator\CleanArch.Infrastructure\obj\Debug\net8.0\CleanArch.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\victo\source\repos\sistemaCQRS-mediator\CleanArch.Infrastructure\obj\Debug\net8.0\CleanArch.Infrastructure.AssemblyInfo.cs
+C:\Users\victo\source\repos\sistemaCQRS-mediator\CleanArch.Infrastructure\obj\Debug\net8.0\CleanArch.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\sistemaCQRS-mediator\CleanArch.Infrastructure\obj\Debug\net8.0\CleanArc.9B8778E9.Up2Date
+C:\Users\victo\source\repos\sistemaCQRS-mediator\CleanArch.Infrastructure\obj\Debug\net8.0\CleanArch.Infrastructure.dll
+C:\Users\victo\source\repos\sistemaCQRS-mediator\CleanArch.Infrastructure\obj\Debug\net8.0\refint\CleanArch.Infrastructure.dll
+C:\Users\victo\source\repos\sistemaCQRS-mediator\CleanArch.Infrastructure\obj\Debug\net8.0\CleanArch.Infrastructure.pdb
+C:\Users\victo\source\repos\sistemaCQRS-mediator\CleanArch.Infrastructure\obj\Debug\net8.0\CleanArch.Infrastructure.genruntimeconfig.cache
+C:\Users\victo\source\repos\sistemaCQRS-mediator\CleanArch.Infrastructure\obj\Debug\net8.0\ref\CleanArch.Infrastructure.dll

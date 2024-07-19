@@ -1,0 +1,1 @@
+﻿// Aqui ficariam os DTOs da aplicação.

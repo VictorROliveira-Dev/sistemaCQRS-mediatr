@@ -1,0 +1,11 @@
+C:\Users\victo\source\repos\sistemaCQRS-mediator\CleanArch.Domain\bin\Debug\net8.0\CleanArch.Domain.deps.json
+C:\Users\victo\source\repos\sistemaCQRS-mediator\CleanArch.Domain\bin\Debug\net8.0\CleanArch.Domain.dll
+C:\Users\victo\source\repos\sistemaCQRS-mediator\CleanArch.Domain\bin\Debug\net8.0\CleanArch.Domain.pdb
+C:\Users\victo\source\repos\sistemaCQRS-mediator\CleanArch.Domain\obj\Debug\net8.0\CleanArch.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\source\repos\sistemaCQRS-mediator\CleanArch.Domain\obj\Debug\net8.0\CleanArch.Domain.AssemblyInfoInputs.cache
+C:\Users\victo\source\repos\sistemaCQRS-mediator\CleanArch.Domain\obj\Debug\net8.0\CleanArch.Domain.AssemblyInfo.cs
+C:\Users\victo\source\repos\sistemaCQRS-mediator\CleanArch.Domain\obj\Debug\net8.0\CleanArch.Domain.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\sistemaCQRS-mediator\CleanArch.Domain\obj\Debug\net8.0\CleanArch.Domain.dll
+C:\Users\victo\source\repos\sistemaCQRS-mediator\CleanArch.Domain\obj\Debug\net8.0\refint\CleanArch.Domain.dll
+C:\Users\victo\source\repos\sistemaCQRS-mediator\CleanArch.Domain\obj\Debug\net8.0\CleanArch.Domain.pdb
+C:\Users\victo\source\repos\sistemaCQRS-mediator\CleanArch.Domain\obj\Debug\net8.0\ref\CleanArch.Domain.dll

@@ -1,0 +1,1 @@
+﻿// Nessa pasta ficariam as interfaces
